@@ -8,6 +8,7 @@ The table below lists each of the bandpass files iin this directory. The table c
 - Approximately what wavelength range each represents,
 - The source for the information
 
+***Note:*** *all of the wavelength values have been converted into nm for consistency*
 
 
 Name | Filename | Code | Wavelength (nm) | Source
