@@ -1,6 +1,6 @@
 # Sources for bandpass information
 
-The table below lists each of the bandpass files iin this directory. The table contains:
+The table below lists each of the bandpass files in this directory. The table contains:
 
 - The name of the filter
 - The filename where the response function is stored in this directory
